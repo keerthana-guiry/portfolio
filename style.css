@@ -50,3 +50,18 @@ nav a {
 nav a:hover {
   color: #a5a8f3;
 }
+#skills ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#skills li {
+  background: #2b2d42;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
